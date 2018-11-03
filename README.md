@@ -20,7 +20,7 @@ gulp
 
 ### Disclaimer
 
-This boilerplate was originally created by my bud [@koganas](https://github.com/koganas) - I just added some utilities.  
+This boilerplate was originally created by my buddy [@koganas](https://github.com/koganas) - I just added some utilities.  
 
 Feel free to use, improve and share it!
 
