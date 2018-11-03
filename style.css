@@ -1,0 +1,11 @@
+/*
+  Theme Name: Your Site Name
+  Theme URI: http://www.yoursiteURL.com
+  Description: Your Site Description
+  Version: 1.0
+  Author: Your Name (@yourUser)
+  Author URI: http://authorsiteURL.com
+  Tags: HTML5, CSS3
+*/
+
+@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}@-webkit-keyframes fadeOut{0%{opacity:1}to{opacity:0}}@keyframes fadeOut{0%{opacity:1}to{opacity:0}}*{box-sizing:border-box}:after,:before{display:none;content:""}body,html{height:auto;min-height:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body,h1,h2,h3,h4,h5,h6,p{margin:0}img{display:block;max-width:100%}video{pointer-events:none}input,select,textarea{font-size:100%;-webkit-appearance:none;-moz-appearance:none;appearance:none}textarea{resize:none}ol,ul{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-family:Arial,sans-serif}a,label,li,p,small{font-family:Verdana,sans-serif}li{list-style:none}video{width:100%}table{border:none;border-collapse:collapse;width:100%}form{width:100%}fieldset,form{border:none}input:focus,select:focus,textarea:focus{outline:none}footer,header{position:relative}.grid{display:flex;flex-wrap:wrap}.grid,.grid__column{position:relative}.grid__column{padding:1rem 0}.icon{background-position:50%;background-repeat:no-repeat}.button,.icon{position:relative;display:inline-block}.button{padding:.875rem 1rem;font-size:1rem;text-align:center;border:1px solid transparent;border-radius:2px;transition:all .21s ease-in-out;cursor:pointer}

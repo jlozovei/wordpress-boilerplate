@@ -1,0 +1,12 @@
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+
+  &, &__column{
+    position: relative;
+  }
+
+  &__column{
+    padding: 1rem 0;
+  }
+}
